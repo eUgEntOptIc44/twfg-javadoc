@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2019px" height="229px" style="height:229px;width:2019px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 2019 229" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" target="_top" title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:actuate="onRequest" xlink:href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:show="new" xlink:title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="759.34" y="7" width="337" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="24"/>
+<text x="762.34" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="331">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="349.84" y="179" width="72" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="352.84" y="196.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="66">unnamed</text>
+</g>
+<g id="e">
+<rect id="f" x="31.84" y="93" width="38" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="34.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="32">View</text>
+</g>
+<g id="g">
+<rect id="h" x="104.84" y="93" width="96" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="107.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="90">org.w3c.dom</text>
+</g>
+<g id="i">
+<rect id="j" x="236.34" y="93" width="83" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="239.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="77">org.xml.sax</text>
+</g>
+<g id="k">
+<rect id="l" x="354.34" y="93" width="81" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="357.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="75">Application</text>
+</g>
+<g id="m">
+<rect id="n" x="470.34" y="93" width="123" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="473.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="117">GestureDetector</text>
+</g>
+<a href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" target="_top" title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:actuate="onRequest" xlink:href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:show="new" xlink:title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:type="simple">
+<g id="o">
+<rect id="p" x="628.34" y="93" width="329" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="26"/>
+<text x="631.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="323">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<a href="org/astronomie/info/package-summary.html" target="_top" title="org/astronomie/info/package-summary.html" xlink:actuate="onRequest" xlink:href="org/astronomie/info/package-summary.html" xlink:show="new" xlink:title="org/astronomie/info/package-summary.html" xlink:type="simple">
+<g id="q">
+<rect id="r" x="992.84" y="93" width="140" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="28"/>
+<text x="995.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="134">org.astronomie.info</text>
+</g>
+</a>
+<g id="s">
+<rect id="t" x="1167.8" y="93" width="92" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1170.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="86">AdapterView</text>
+</g>
+<g id="u">
+<rect id="v" x="1294.8" y="93" width="104" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1297.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="98">BitmapFactory</text>
+</g>
+<g id="w">
+<rect id="x" x="1434.3" y="93" width="139" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1437.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="133">SharedPreferences</text>
+</g>
+<g id="y">
+<rect id="z" x="1608.8" y="93" width="160" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1611.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="154">ScaleGestureDetector</text>
+</g>
+<g id="aa">
+<rect id="ab" x="1803.8" y="93" width="64" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1806.84" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="58">SeekBar</text>
+</g>
+<g id="ac">
+<rect id="ad" x="1903.3" y="93" width="109" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1906.34" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">DialogInterface</text>
+</g>
+<g id="ae" stroke="#181818">
+<path id="af" d="m759.32 22.18c-250.23 3.53-696.05 17.34-745.48 70.82-7.84 8.49-7.35 17.09 0 26 42.44 51.44 245 66.273 329.93 70.343" fill="none" codeLine="7"/>
+<polygon points="349.76 189.63 340.96 185.2 344.77 189.39 340.58 193.19" fill="#181818"/>
+</g>
+<g id="ag" stroke="#181818">
+<path id="ah" d="m759.02 23.77c-171.02 5.53-442.38 21.79-672.18 69.23-5.55 1.15-5.7379 0.9826-11.108 2.7726" fill="none" codeLine="8"/>
+<polygon points="70.04 97.67 79.843 98.619 74.783 96.089 77.313 91.029" fill="#181818"/>
+</g>
+<g id="ai" stroke="#181818">
+<path id="aj" d="m775.29 33c-143.87 12.14-365.34 32.97-556.45 60-5.77 0.82-5.8841 0.7691-11.854 1.7791" fill="none" codeLine="9"/>
+<polygon points="201.07 95.78 210.61 98.223 206 94.946 209.28 90.335" fill="#181818"/>
+</g>
+<g id="ak" stroke="#181818">
+<path id="al" d="m805.76 33.01c-119.78 12.46-307.46 33.78-468.92 59.99-5.67 0.92-5.7385 0.8639-11.598 1.9939" fill="none" codeLine="10"/>
+<polygon points="319.35 96.13 328.94 98.354 324.26 95.183 327.43 90.498" fill="#181818"/>
+</g>
+<g id="am" stroke="#181818">
+<path id="an" d="m838.75 33.05c-95.63 13.28-251.88 35.94-385.91 59.95-5.67 1.02-5.7461 0.9852-11.606 2.1552" fill="none" codeLine="11"/>
+<polygon points="435.35 96.33 444.96 98.49 440.25 95.351 443.39 90.645" fill="#181818"/>
+</g>
+<g id="ao" stroke="#181818">
+<path id="ap" d="m871.1 33.04c-75.28 15.96-201.53 42.745-276.76 58.705" fill="none" codeLine="12"/>
+<polygon points="588.47 92.99 598.1 95.035 593.36 91.952 596.44 87.209" fill="#181818"/>
+</g>
+<g id="aq" stroke="#181818">
+<path id="ar" d="m908.5 33.04c-25.67 15.96-65.616 40.819-91.256 56.779" fill="none" codeLine="13"/>
+<polygon points="812.15 92.99 821.9 91.63 816.39 90.348 817.68 84.838" fill="#181818"/>
+</g>
+<g id="as" stroke="#181818">
+<path id="at" d="m947.18 33.04c25.67 15.96 65.616 40.819 91.256 56.779" fill="none" codeLine="14"/>
+<polygon points="1043.5 92.99 1038 84.838 1039.3 90.348 1033.8 91.63" fill="#181818"/>
+</g>
+<g id="au" stroke="#181818">
+<path id="av" d="m968.82 33.04c54.37 15.96 144.03 42.299 198.36 58.259" fill="none" codeLine="15"/>
+<polygon points="1172.9 92.99 1165.4 86.616 1168.1 91.581 1163.2 94.291" fill="#181818"/>
+</g>
+<g id="aw" stroke="#181818">
+<path id="ax" d="m987.87 33.04c82.26 16.49 222.77 44.65 300.77 60.29" fill="none" codeLine="16"/>
+<polygon points="1294.5 94.51 1286.5 88.819 1289.6 93.527 1284.9 96.662" fill="#181818"/>
+</g>
+<g id="ay" stroke="#181818">
+<path id="az" d="m1010.4 33.04c113.85 16.6 311.15 45.374 417.81 60.924" fill="none" codeLine="17"/>
+<polygon points="1434.1 94.83 1425.8 89.574 1429.2 94.109 1424.6 97.49" fill="#181818"/>
+</g>
+<g id="ba" stroke="#181818">
+<path id="bb" d="m1042.9 33.01c132.27 13.92 355.88 37.8 547.96 59.99 5.79 0.67 5.8125 0.6575 11.832 1.3775" fill="none" codeLine="18"/>
+<polygon points="1608.6 95.09 1600.2 90.05 1603.7 94.496 1599.2 97.993" fill="#181818"/>
+</g>
+<g id="bc" stroke="#181818">
+<path id="bd" d="m1096.7 27.34c173.92 8.36 452.37 26.82 690.16 65.66 5.53 0.9 5.5116 0.7699 11.142 2.0599" fill="none" codeLine="19"/>
+<polygon points="1803.8 96.4 1796 90.491 1799 95.283 1794.2 98.289" fill="#181818"/>
+</g>
+<g id="be" stroke="#181818">
+<path id="bf" d="m1096.6 29.07c191.73 10.24 513.76 30.69 789.26 63.93 5.66 0.68 5.6248 0.6203 11.495 1.4903" fill="none" codeLine="20"/>
+<polygon points="1903.3 95.37 1895 90.094 1898.3 94.637 1893.8 98.007" fill="#181818"/>
+</g>
+<g id="bg" stroke="#181818">
+<path id="bh" d="m734.53 119.04c-85.4 17.62-236.08 48.718-306.64 63.278" fill="none" codeLine="21"/>
+<polygon points="422.01 183.53 431.63 185.63 426.91 182.52 430.02 177.79" fill="#181818"/>
+</g>
+<text x="912.67" y="219.5791" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>
